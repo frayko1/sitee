@@ -958,7 +958,7 @@ footer .container {
 	text-decoration: none;
 }
 
-.ut-pages > a {
+.ut-pages > li > a {
 	color: #525C60;
 	margin-bottom: 20px;
 	font-size: 18px;
